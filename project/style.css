@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+#orange{
+    height: 120px;
+     position: fixed;
+    left: 0;
+    right: 0;
+}
+
+main{
+    padding-top: 140px ;
+
+}
